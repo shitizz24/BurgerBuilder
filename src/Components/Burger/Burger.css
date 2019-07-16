@@ -1,0 +1,8 @@
+.make {
+  height: 400px;
+  width: 350px;
+  color: blue;
+  margin: 100px;
+  border: 100px solid purple;
+  padding: 50px;
+}
